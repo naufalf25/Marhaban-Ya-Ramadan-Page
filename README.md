@@ -17,7 +17,7 @@ Ini merupakan rancangan desain web yang saya buat sendiri khusus edisi menyambut
 
 ### Live Site Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click Here](https://naufalf25.github.io/Marhaban-Ya-Ramadan-Page/)
 
 ## Proses
 
