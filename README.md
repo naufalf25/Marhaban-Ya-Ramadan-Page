@@ -11,11 +11,11 @@ Ini merupakan rancangan desain web yang saya buat sendiri khusus edisi menyambut
   - [Sumber Referensi](#sumber-referensi)
 - [Author](#author)
 
-### Screenshot
+## Screenshot
 
 ![](./images/Screenshot.png)
 
-### Live Site Link
+## Live Site Link
 
 - Live Site URL: [Click Here](https://naufalf25.github.io/Marhaban-Ya-Ramadan-Page/)
 
